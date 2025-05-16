@@ -1,0 +1,12 @@
+[server]
+port = 29915
+debug = true
+
+[database]
+host = "192.168.2.5"
+user = "ST817"
+port = 3306
+pass = "000ST81748"
+name = "traning"
+sslmode = "disable"
+
